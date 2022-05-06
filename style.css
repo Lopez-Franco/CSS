@@ -1,0 +1,36 @@
+.div-1{
+    background-color: aquamarine;
+    text-align: center;
+}
+.menu{
+    display: flex;
+}
+.div-2{
+    background-color: aqua;
+    padding: 10%;
+}
+.div-3{
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    padding: 1%;
+}
+.dentro-div-3{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+}
+h3{
+    text-align: center;
+}
+
+span{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-direction: column-reverse;
+}
+.div-4{
+    background-color: aquamarine;
+    text-align: center;
+}
