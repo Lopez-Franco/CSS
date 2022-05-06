@@ -1,36 +1,45 @@
 .div-1{
-    background-color: aquamarine;
+    background-color: turquoise;
     text-align: center;
+    padding: 1%;
+    margin: 5px;
 }
 .menu{
     display: flex;
 }
 .div-2{
-    background-color: aqua;
-    padding: 10%;
+    background-color:deepskyblue;
+    padding: 1%;
+    margin: 5px;
+    width: 28%;
 }
 .div-3{
     display: flex;
     flex-direction: column;
-    background-color: red;
+    background-color:orangered;
     padding: 1%;
+    margin: 5px;
+    width: 72%;
+}
+#div-h3{
+    padding-bottom: 10%;
 }
 .dentro-div-3{
     display: flex;
-    flex-direction: row;
-    background-color: pink;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(224, 112, 112);
 }
 h3{
     text-align: center;
 }
-
 span{
-    padding: 10px;
-    display: flex;
-    flex-direction: row;
-    flex-direction: column-reverse;
+    padding: 5px;
+    padding-top: 5%;
 }
 .div-4{
-    background-color: aquamarine;
+    background-color: turquoise;
     text-align: center;
+    padding: 1%;
+    margin: 5px;
 }
